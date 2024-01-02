@@ -1,0 +1,1 @@
+// 10. Write a JavaScript program to extract values at specified indexes from a specified array.
